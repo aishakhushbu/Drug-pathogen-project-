@@ -13,3 +13,8 @@ This repository tracks my self-study on pathogen identification, molecular techn
 
 ## Links
 - Self-study Notes: [https://docs.google.com/document/d/1_XfU55i6cLD3McubONydDnQI9s6sIk06A_kzWRqcqto/edit?usp=drivesdk]
+
+## Skills Covered
+- Microbiology basics (Gram staining, pathogen identification)
+- Molecular techniques (PCR, gel electrophoresis)
+- Basic pharmacology understanding
