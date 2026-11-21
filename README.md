@@ -62,8 +62,7 @@ About This Repository
 
 All projects presented here are independently developed learning and research exercises. Computational findings are not substitutes for experimental validation or clinical evidence. This repository is intended to document my developing research skills and scientific interests.
 
- Links
-- Self-study Notes: [https://docs.google.com/document/d/1_XfU55i6cLD3McubONydDnQI9s6sIk06A_kzWRqcqto/edit?usp=drivesdk]
+ 
 
 Skills Covered
 - Microbiology basics (Gram staining, pathogen identification)
