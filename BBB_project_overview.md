@@ -21,7 +21,7 @@ The project uses the B3DB BBB classification dataset.
 - BBB-negative compounds: 2,851
 - Final modelling dataset: 7,805 unique compounds
 - Duplicate SMILES in modelling data: 0
-- Primary label: BBB penetration status (`BBB` vs `BBB-`)
+- Primary label: BBB penetration status (`BBB+` vs `BBB-`)
 
 The dataset includes compound identifiers, SMILES structures, logBB values, BBB labels, and source references.
 
@@ -48,7 +48,7 @@ The following RDKit-derived molecular descriptors were calculated:
 - Removed compounds with missing descriptor values.
 - Verified that all SMILES values were unique.
 - Encoded BBB penetration as a binary classification target:
-  - `BBB` = 1
+  - `BBB+` = 1
   - `BBB-` = 0
 
 ### 2. Exploratory analysis
